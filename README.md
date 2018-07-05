@@ -1,5 +1,5 @@
 # KaggleBikeChallenge
-This repository is my analysis of some data from kaggle that looks at bike rentals over time. 
+This repository is my analysis of some data from kaggle that looks at bike rentals over time. Results would be 2nd place in challenge.  
 
 Here I've included the csv files and two jupyter notebooks, one that performs a longitudinal analysis of only the time-series element of the data and the other that does a more traditional machine learning prediction after restructuring the data. My impression is that the standard approach to analyzing these data are all machine learning approaches, but when I first looked at the data I wanted to look at only the time dependence to see if I could get something out of that.  
 
